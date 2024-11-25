@@ -1,0 +1,13 @@
+{
+  "name": "calcuTest",
+  "version": "1.0.0",
+  "description": "A simple calculator application",
+  "main": "dist/calculator.js",
+  "scripts": {
+    "start": "node dist/calculator.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.0.0"
+  }
+}
